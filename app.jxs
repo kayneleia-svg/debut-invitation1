@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-export default function DebutInvitation() {
+export default function Home() {
   const slides = [
     { image: "/image1.png" },
     { image: "/image2.png" },
